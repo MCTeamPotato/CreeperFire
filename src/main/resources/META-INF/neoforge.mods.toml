@@ -1,5 +1,5 @@
 modLoader = "javafml"
-loaderVersion = "[36,)"
+loaderVersion = "[4,)"
 #issueTrackerURL = ""
 license = "MIT"
 
@@ -9,5 +9,9 @@ version = "${version}"
 displayName = "CreeperFire"
 authors = "Kall"
 description = '''
+A Minecraft mod
 '''
 #logoFile = ""
+
+[[mixins]]
+config = "creeperfire.mixins.json"
