@@ -1,0 +1,13 @@
+modLoader = "javafml"
+loaderVersion = "[36,)"
+#issueTrackerURL = ""
+license = "MIT"
+
+[[mods]]
+modId = "creeperfire"
+version = "${version}"
+displayName = "CreeperFire"
+authors = "Kall"
+description = '''
+'''
+#logoFile = ""
